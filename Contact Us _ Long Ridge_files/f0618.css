@@ -19795,8 +19795,8 @@ screen and (min-width: 56.25em) {
 	margin-left: 20px;
 	z-index: 1;
 	font-weight: 600;
-	width: 90px;
-	text-align: right
+	
+	text-align: right;
 }
 
 .section-heading:before {
